@@ -10,7 +10,7 @@
 
                    name="custom.product.info.cart.items"
 
-                   template="MageWorx_CustomProductPage::cart_items.phtml"/>
+                   template="MageHabibi_CartItemsInKnockoutJsMagento2::cart_items.phtml"/>
 
         </referenceContainer>
 
